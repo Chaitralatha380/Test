@@ -1,0 +1,5 @@
+node {
+	stage('init'){
+git 'https://github.com/Chaitralatha380/Test.git'
+	}
+}
